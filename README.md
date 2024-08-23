@@ -1,0 +1,14 @@
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+So when I went to choose this app I thought it was just a simple schedule application that I needed to create. As I went deeper into the selections reading I realized that it's more than that this allowed me to be a lot more intentional and specific with what I was creating. The user needs that were addressed in the applications was the ability to log in 
+and create any event they want which includes the ability to put in the time date, and location. Then last but not least the actual sms allowed a user to choose someone to send a message to and the actual message was sent.
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+So the screens that were necessary included just a simple login screen as the main start of the app as well as a main screen that consisted of the actual scheduling area that allows a user to create the event, and finally the sms that allowed the user to send a message.
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
+I took a simple approach what does the user need to do and how can I do that the most effectively this allowed the process to be the simplest it's been in a while. The strategies I used consisted of drawing out a rough sketch of the application and everything it entailed. Techniques I could use in the future would probably be 
+test cases this allows me to do a lot of tests that would ensure functionality in any circumstance.
+How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+So the test I ran was actually for the database for the events and that was really tough to figure out because I needed a way to ensure it would continue to collect events and allow the user to scroll down and see any event at any time. When I initially did this it would do that it would just overlap events now it works perfectly.
+Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+So the full app in itself was really hard to develop because honestly, I didn't have that much practice in Java compared to the amount of time I had as a C+ developer and since we were working with Java I had to spend a lot of time in the book learning that language.
+In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+I would say that the creation of the database was probably the most difficult part of this entire app. Solving that was the part I was probably the most excited about.
